@@ -1,0 +1,8 @@
+{
+  "name": "speed-converter",
+  "version": "1.0.0",
+  "description": "API to convert speed units",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "license": "MIT"
+}
