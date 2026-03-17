@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "API to convert speed units",
   "main": "index.js",
-  "scripts": { "start": "node index.js" },
-  "license": "MIT"
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
