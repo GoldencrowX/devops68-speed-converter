@@ -1,5 +1,5 @@
 {
-  "name": "speed-converter",
+  "name": "devops68-speed-converter",
   "version": "1.0.0",
   "description": "API to convert speed units",
   "main": "index.js",
